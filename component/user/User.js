@@ -4,6 +4,7 @@ const user = () => {
 	
 	return (
 		<div>Hello World</div>
+		<div>Great</div>
 	);
 	
 }
