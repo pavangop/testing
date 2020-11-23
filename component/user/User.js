@@ -7,3 +7,5 @@ const user = () => {
 	);
 	
 }
+
+export user;
