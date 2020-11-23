@@ -8,4 +8,4 @@ const user = () => {
 	
 }
 
-export user;
+export default user;
